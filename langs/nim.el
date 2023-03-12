@@ -1,6 +1,6 @@
 ;;-*- lexical-binding: t; -*-
 
-;; build langserver from source: https://github.com/nim-lang/langserver
+;; build nimlangserver from source: https://github.com/nim-lang/langserver
 
 (use-package nim-mode
   :bind

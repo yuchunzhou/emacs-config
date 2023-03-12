@@ -1,6 +1,6 @@
 ;;-*- lexical-binding: t; -*-
 
-;; pip3 install jedi-language-server isort black black-macchiato autoflake
+;; pip3 install --user jedi-language-server isort black black-macchiato autoflake
 
 (use-package python-mode
   :straight
